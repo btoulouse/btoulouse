@@ -3,6 +3,6 @@ logo: "images/ProfilePic.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Motivated entry level software engineer excited to begin applying the knowledge 
   and skills I have gained in my studies to real world application.
-  <br><br>
+
   <a href="https://www.linkedin.com/in/briantoulouse/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
