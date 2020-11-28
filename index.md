@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Portfolio Mobile App](https://github.com/btoulouse/mobileEPortfolio.git)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/resume.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -32,4 +32,6 @@
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<div>Icons made by <a href="https://creativemarket.com/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 <!-- Remove above link if you don't want to attibute -->
