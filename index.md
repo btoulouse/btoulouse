@@ -11,7 +11,7 @@
 
 ---
 [Data Structures and Algorithms](/pdf/sample_presentation.pdf)
-<img src="mages/algorithm.png"/>
+<img src="images/algorithm.png"/>
 
 ---
 [MySQL](http://example.com/)
