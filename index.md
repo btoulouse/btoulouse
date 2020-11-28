@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Portfolio Mobile App](https://github.com/btoulouse/mobileEPortfolio.git)
-<img src="images/resume.png"/>
+<img src="iimages/resume (1).png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
