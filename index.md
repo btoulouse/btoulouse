@@ -23,10 +23,10 @@
 
 ---
 
-### Category Name 2
+### Side Projects
 
 - [3D OpenGL Table](https://github.com/btoulouse/OpenGL.git)
-- [Project 2 Title](http://example.com/)
+- [Snake Console Game](https://github.com/btoulouse/Snake.git)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
