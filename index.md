@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Portfolio Mobile App](https://github.com/btoulouse/mobileEPortfolio.git)
+<br />
 <img src="images/resume1.png"/>
 
 ---
