@@ -6,6 +6,7 @@
 
 [Portfolio Mobile App](https://github.com/btoulouse/mobileEPortfolio.git)
 <br />
+<br />
 <img src="images/resume1.png"/>
 
 ---
