@@ -11,6 +11,8 @@
 
 ---
 [Data Structures and Algorithms](/pdf/sample_presentation.pdf)
+<br />
+<br />
 <img src="images/algorithm.png"/>
 
 ---
