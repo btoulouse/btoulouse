@@ -10,11 +10,11 @@
 <img src="images/resume1.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data Structures and Algorithms](/pdf/sample_presentation.pdf)
+<img src="mages/algorithm.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[MySQL](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
