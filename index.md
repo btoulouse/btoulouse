@@ -10,7 +10,7 @@
 <img src="images/resume1.png"/>
 
 ---
-[Data Structures and Algorithms](/pdf/sample_presentation.pdf)
+[Data Structures and Algorithms](https://github.com/btoulouse/DataBaseandAlg)
 <br />
 <br />
 <img src="images/algorithm.png"/>
