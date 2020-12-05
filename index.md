@@ -27,9 +27,9 @@
 
 - [3D OpenGL Table](https://github.com/btoulouse/OpenGL.git)
 - [Snake Console Game](https://github.com/btoulouse/Snake.git)
-- [Project 3 Title](http://example.com/)
+<!-- - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 5 Title](http://example.com/) -->
 
 ---
 
