@@ -16,7 +16,7 @@
 <img src="images/algorithm.png"/>
 
 ---
-[MySQL](http://example.com/)
+[MySQL](https://github.com/btoulouse/MessagingDB)
 <br />
 <br />
 <img src="images/database.png"/>
